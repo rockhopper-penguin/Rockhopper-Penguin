@@ -1,6 +1,12 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rockhopper-penguin&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rockhopper-penguin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+# My Qiita posts
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/rockhopper-penguin/posts.svg)](http://qiita.com/rockhopper-penguin)
+# My Qiita contributions
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/rockhopper-penguin/contributions.svg)](http://qiita.com/rockhopper-penguin)
+# My Qiita followers
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/rockhopper-penguin/followers.svg)](http://qiita.com/rockhopper-penguin)
 
 <a href="https://rockhopper-penguin.github.io/">Rockhopper-Penguin</a>
 
